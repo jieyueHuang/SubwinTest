@@ -6,7 +6,7 @@ namespace Subwin0614
     {
         static void Main(string[] args)
         {
-            int a = 522;
+            int a = 5122;
             Console.WriteLine("Hello World!");
         }
     }
